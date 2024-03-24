@@ -1,0 +1,1 @@
+Nombre: arroz1 Area: 12.00 Edad: 2 Produccion anual: 4.00 Tipo Grano: simples
